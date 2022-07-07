@@ -1,0 +1,57 @@
+.hdn0 {text-align: center; color: rgb(20, 8, 185);
+}
+
+.hdn1 {margin: 0px auto 0px auto; background-color: blue; 
+    color: rgb(255, 255, 255);
+}
+
+.hdn2 {margin: 0px auto 0px auto; background-color: blue; 
+    color: rgb(255, 255, 255);
+}
+
+.hdn3 {margin: 0px auto 0px auto; background-color: blue; 
+    color: rgb(255, 255, 255);
+}
+
+.hdn4 {margin: 0px auto 0px auto; background-color: blue; 
+    color: rgb(255, 255, 255);
+}
+
+.hdn5 {margin: 0px auto 0px auto; background-color: blue; 
+    color: rgb(255, 255, 255);
+}
+
+.hdn6 {margin: 0px auto 0px auto; background-color: blue; 
+    color: rgb(255, 255, 255);
+}
+
+.btn {margin-top: 30px;
+}
+
+body { background-color: rgb(191, 229, 247);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hdn1:hover {
+    color: blue; background-color: white;
+}
+
+.hdn2:hover {
+    color: blue; background-color: white;
+}
+
+.hdn3:hover {
+    color: blue; background-color: white;
+}
+
+.hdn4:hover {
+    color: blue; background-color: white;
+}
+
+.hdn5:hover {
+    color: blue; background-color: white;
+}
+
+.hdn6:hover {
+    color: blue; background-color: white;
+}
